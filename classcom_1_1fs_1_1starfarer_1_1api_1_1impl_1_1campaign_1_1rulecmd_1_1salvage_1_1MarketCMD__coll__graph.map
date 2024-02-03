@@ -1,0 +1,13 @@
+<map id="com.fs.starfarer.api.impl.campaign.rulecmd.salvage.MarketCMD" name="com.fs.starfarer.api.impl.campaign.rulecmd.salvage.MarketCMD">
+<area shape="rect" id="Node000001" title=" " alt="" coords="849,39,1166,79"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1rulecmd_1_1BaseCommandPlugin.html" title=" " alt="" coords="476,5,745,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="760,36,849,43,848,48,760,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="106,13,222,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="238,23,475,23,475,28,238,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="452,71,769,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="784,74,849,69,849,74,784,80"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,67,323,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="338,86,451,87,451,92,338,91"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,132,323,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="331,127,457,109,457,115,332,132"/>
+</map>

@@ -1,0 +1,15 @@
+<map id="com.fs.starfarer.api.impl.campaign.rulecmd.salvage.CargoPods" name="com.fs.starfarer.api.impl.campaign.rulecmd.salvage.CargoPods">
+<area shape="rect" id="Node000001" title=" " alt="" coords="923,39,1240,79"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1rulecmd_1_1BaseCommandPlugin.html" title=" " alt="" coords="568,5,838,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="853,36,923,42,922,48,853,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="299,13,415,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,23,568,23,568,28,431,28"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1CargoPodsEntityPlugin.html" title=" " alt="" coords="593,71,813,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="828,78,922,70,922,75,829,83"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1BaseCustomEntityPlugin.html" title=" " alt="" coords="247,67,467,107"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="483,86,592,87,592,92,483,91"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,74,198,100"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="213,84,247,84,247,90,213,90"/>
+<area shape="rect" id="Node000007" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1GenericFieldItemManager.html" title=" " alt="" coords="247,132,467,173"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="482,128,592,108,593,113,483,133"/>
+</map>

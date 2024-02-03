@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.impl.campaign.skills.NeuralLinkScript" name="com.fs.starfarer.api.impl.campaign.skills.NeuralLinkScript">
+<area shape="rect" id="Node000001" title=" " alt="" coords="376,27,629,68"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="33,5,234,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="250,25,375,35,375,40,249,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,55,262,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="277,69,351,64,375,62,375,67,352,69,278,74"/>
+</map>

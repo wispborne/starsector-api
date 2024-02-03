@@ -1,0 +1,15 @@
+<map id="com.fs.starfarer.api.characters.LevelBasedEffect" name="com.fs.starfarer.api.characters.LevelBasedEffect">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,136,204,177"/>
+<area shape="rect" id="Node000002" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1characters_1_1CharacterStatsSkillEffect.html" title=" " alt="" coords="252,5,450,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="143,124,193,90,250,57,280,44,282,49,253,61,196,94,146,129"/>
+<area shape="rect" id="Node000003" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1characters_1_1CustomSkillDescription.html" title=" " alt="" coords="252,71,450,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="198,129,271,109,272,115,199,134"/>
+<area shape="rect" id="Node000004" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1characters_1_1FleetStatsSkillEffect.html" title=" " alt="" coords="252,136,450,177"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="220,154,251,154,251,159,220,159"/>
+<area shape="rect" id="Node000005" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1characters_1_1MarketSkillEffect.html" title=" " alt="" coords="252,201,450,242"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="199,179,272,198,271,203,198,184"/>
+<area shape="rect" id="Node000006" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1characters_1_1ShipSkillEffect.html" title=" " alt="" coords="252,267,450,307"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="146,184,196,219,253,251,282,264,280,269,250,256,193,223,143,189"/>
+<area shape="rect" id="Node000007" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1characters_1_1AfterShipCreationSkillEffect.html" title=" " alt="" coords="498,267,696,307"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="466,284,497,284,497,290,466,290"/>
+</map>

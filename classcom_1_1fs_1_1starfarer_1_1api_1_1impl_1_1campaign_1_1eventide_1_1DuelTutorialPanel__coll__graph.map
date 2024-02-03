@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.impl.campaign.eventide.DuelTutorialPanel" name="com.fs.starfarer.api.impl.campaign.eventide.DuelTutorialPanel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="351,27,623,68"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="52,5,231,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="247,24,351,33,350,39,247,30"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,55,278,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="293,61,350,56,351,61,294,66"/>
+</map>

@@ -1,0 +1,9 @@
+<map id="com.fs.starfarer.api.impl.campaign.BattleAutoresolverPluginImpl" name="com.fs.starfarer.api.impl.campaign.BattleAutoresolverPluginImpl">
+<area shape="rect" id="Node000001" title=" " alt="" coords="41,184,262,225"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,88,170,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="105,125,141,182,137,185,101,128"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1FleetEncounterContext.html" title=" " alt="" coords="193,80,414,121"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,132,182,186,179,181,260,128"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="209,5,398,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="306,47,306,80,301,80,301,47"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.impl.campaign.MilitaryResponseScript" name="com.fs.starfarer.api.impl.campaign.MilitaryResponseScript">
+<area shape="rect" id="Node000001" title=" " alt="" coords="401,39,621,79"/>
+<area shape="rect" id="Node000002" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1EveryFrameScript.html" title=" " alt="" coords="73,5,239,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="255,32,401,46,400,51,254,38"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,71,307,111"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="322,73,400,66,401,72,323,79"/>
+</map>

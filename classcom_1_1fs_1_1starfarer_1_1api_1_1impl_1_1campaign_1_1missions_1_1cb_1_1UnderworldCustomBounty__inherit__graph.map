@@ -1,0 +1,9 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.cb.UnderworldCustomBounty" name="com.fs.starfarer.api.impl.campaign.missions.cb.UnderworldCustomBounty">
+<area shape="rect" id="Node000001" title=" " alt="" coords="31,168,323,208"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1cb_1_1BaseCustomBounty.html" title=" " alt="" coords="31,79,323,120"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,135,179,167,174,167,174,135"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="116,40,157,77,153,81,113,44"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="198,5,329,31"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="241,44,200,81,196,77,237,40"/>
+</map>

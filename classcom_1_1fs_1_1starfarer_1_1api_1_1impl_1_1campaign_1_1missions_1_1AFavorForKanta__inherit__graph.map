@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.AFavorForKanta" name="com.fs.starfarer.api.impl.campaign.missions.AFavorForKanta">
+<area shape="rect" id="Node000001" title=" " alt="" coords="49,79,324,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,163,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="113,38,163,77,160,81,110,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="187,5,392,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="263,43,214,81,210,77,260,38"/>
+</map>

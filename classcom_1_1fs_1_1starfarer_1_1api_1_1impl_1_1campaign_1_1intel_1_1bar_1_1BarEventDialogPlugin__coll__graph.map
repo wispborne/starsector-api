@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.impl.campaign.intel.bar.BarEventDialogPlugin" name="com.fs.starfarer.api.impl.campaign.intel.bar.BarEventDialogPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="357,27,625,68"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="62,5,217,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,23,357,34,356,39,232,29"/>
+<area shape="rect" id="Node000003" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1intel_1_1bar_1_1PortsideBarEvent.html" title=" " alt="" coords="5,55,274,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="289,61,356,56,356,61,290,66"/>
+</map>

@@ -1,0 +1,13 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.DelayedFleetEncounter" name="com.fs.starfarer.api.impl.campaign.missions.DelayedFleetEncounter">
+<area shape="rect" id="Node000001" title=" " alt="" coords="844,47,1119,88"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="490,5,653,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="669,27,844,48,843,54,668,32"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="503,55,640,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="655,65,844,65,844,70,655,70"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1DelayedFleetEncounter_1_1CanSpawnFleetConditionChecker.html" title=" " alt="" coords="396,105,747,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="736,99,843,84,844,89,737,104"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="81,83,205,108"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="221,98,395,110,395,115,220,103"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,133,281,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="296,140,395,134,395,139,296,146"/>
+</map>

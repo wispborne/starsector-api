@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.campaign.BaseCampaignEventListener" name="com.fs.starfarer.api.campaign.BaseCampaignEventListener">
+<area shape="rect" id="Node000001" title=" " alt="" coords="32,94,225,135"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1campaign_1_1BaseCampaignEventListenerAndScript.html" title=" " alt="" coords="5,183,252,223"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="131,150,131,182,126,182,126,150"/>
+<area shape="rect" id="Node000002" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1campaign_1_1CampaignEventListener.html" title=" " alt="" coords="32,5,225,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="131,62,131,94,126,94,126,62"/>
+</map>

@@ -1,0 +1,7 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.TacticallyBombardColony" name="com.fs.starfarer.api.impl.campaign.missions.TacticallyBombardColony">
+<area shape="rect" id="Node000001" title=" " alt="" coords="58,79,333,120"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,5,175,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="120,38,171,76,168,81,117,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="199,5,403,31"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="274,43,223,81,220,76,271,38"/>
+</map>

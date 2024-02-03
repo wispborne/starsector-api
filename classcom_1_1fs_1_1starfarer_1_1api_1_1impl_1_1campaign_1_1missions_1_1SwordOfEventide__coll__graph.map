@@ -1,0 +1,9 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.SwordOfEventide" name="com.fs.starfarer.api.impl.campaign.missions.SwordOfEventide">
+<area shape="rect" id="Node000001" title=" " alt="" coords="581,26,857,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="280,5,437,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="453,23,581,33,580,38,453,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="221,55,496,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="512,60,581,55,581,60,512,66"/>
+<area shape="rect" id="Node000004" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1EveryFrameScript.html" title=" " alt="" coords="5,55,172,96"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="187,73,221,73,221,78,187,78"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="com.fs.starfarer.api.ui.MapParams" name="com.fs.starfarer.api.ui.MapParams">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,109,153,150"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1ui_1_1MapFilterData.html" title=" " alt="" coords="5,5,153,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="82,62,82,109,76,109,76,62"/>
+</map>

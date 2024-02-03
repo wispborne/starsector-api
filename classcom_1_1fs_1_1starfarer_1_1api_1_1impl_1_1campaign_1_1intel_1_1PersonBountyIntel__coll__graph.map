@@ -1,0 +1,20 @@
+<map id="com.fs.starfarer.api.impl.campaign.intel.PersonBountyIntel" name="com.fs.starfarer.api.impl.campaign.intel.PersonBountyIntel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="658,186,905,227"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1intel_1_1BaseIntelPlugin.html" title=" " alt="" coords="328,94,575,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="549,136,635,160,713,183,712,188,633,165,548,142"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="77,55,181,80"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="197,75,328,94,327,99,196,80"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="79,104,179,130"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="195,114,327,113,327,118,195,119"/>
+<area shape="rect" id="Node000005" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1EveryFrameScript.html" title=" " alt="" coords="46,158,212,199"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="228,180,658,198,658,204,228,185"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="227,156,345,132,346,138,228,161"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="41,5,217,31"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="224,32,253,40,331,65,401,91,399,96,330,70,252,45,222,37"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="386,219,517,244"/>
+<area shape="poly" id="edge7_Node000001_Node000007" title=" " alt="" coords="532,223,657,213,658,218,532,228"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="328,269,575,309"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="550,262,697,225,698,230,551,267"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="5,269,253,309"/>
+<area shape="poly" id="edge9_Node000008_Node000009" title=" " alt="" coords="268,286,327,286,327,292,268,292"/>
+</map>

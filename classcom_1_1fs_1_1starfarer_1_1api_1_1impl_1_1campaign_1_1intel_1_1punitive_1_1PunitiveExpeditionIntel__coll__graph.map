@@ -1,0 +1,15 @@
+<map id="com.fs.starfarer.api.impl.campaign.intel.punitive.PunitiveExpeditionIntel" name="com.fs.starfarer.api.impl.campaign.intel.punitive.PunitiveExpeditionIntel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="589,66,885,107"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="305,5,377,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="392,24,489,40,620,63,620,68,488,45,391,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="292,55,390,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="406,68,589,77,589,82,405,73"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1intel_1_1punitive_1_1PEActionStage.html" title=" " alt="" coords="193,105,488,145"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="503,106,589,98,589,103,504,112"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="28,88,121,114"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="136,104,193,109,192,114,136,109"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,137,144,163"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="159,140,192,136,193,142,159,145"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="193,170,488,211"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="452,163,488,154,665,105,667,110,489,159,453,168"/>
+</map>

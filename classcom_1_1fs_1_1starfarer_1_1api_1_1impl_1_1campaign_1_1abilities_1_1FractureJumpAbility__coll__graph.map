@@ -1,0 +1,12 @@
+<map id="com.fs.starfarer.api.impl.campaign.abilities.FractureJumpAbility" name="com.fs.starfarer.api.impl.campaign.abilities.FractureJumpAbility">
+<area shape="rect" id="Node000001" title=" " alt="" coords="880,42,1147,83"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1abilities_1_1BaseDurationAbility.html" title=" " alt="" coords="563,7,831,48"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="846,41,880,45,879,50,846,46"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1abilities_1_1BaseAbilityPlugin.html" title=" " alt="" coords="221,7,488,48"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="504,25,563,25,563,30,504,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="42,5,135,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="150,18,221,20,221,25,150,23"/>
+<area shape="rect" id="Node000005" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1EveryFrameScript.html" title=" " alt="" coords="5,59,172,100"/>
+<area shape="poly" id="edge5_Node000001_Node000005" title=" " alt="" coords="187,75,879,62,879,67,187,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="186,58,246,46,247,51,187,63"/>
+</map>

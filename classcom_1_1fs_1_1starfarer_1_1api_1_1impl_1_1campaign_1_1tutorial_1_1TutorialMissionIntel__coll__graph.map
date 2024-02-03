@@ -1,0 +1,9 @@
+<map id="com.fs.starfarer.api.impl.campaign.tutorial.TutorialMissionIntel" name="com.fs.starfarer.api.impl.campaign.tutorial.TutorialMissionIntel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="351,55,613,96"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="80,5,193,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,27,356,52,355,57,208,33"/>
+<area shape="rect" id="Node000003" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1EveryFrameScript.html" title=" " alt="" coords="53,55,220,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="235,73,350,73,350,78,235,78"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,121,268,161"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="262,114,370,94,371,99,263,120"/>
+</map>

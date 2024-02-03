@@ -1,0 +1,26 @@
+var dir_76be33bb2034575c8cfe43af0f12e0fc =
+[
+    [ "BasicExampleGADataFromRuins.java", "BasicExampleGADataFromRuins_8java.html", "BasicExampleGADataFromRuins_8java" ],
+    [ "GAAtTheGates.java", "GAAtTheGates_8java.html", "GAAtTheGates_8java" ],
+    [ "GABaseMission.java", "GABaseMission_8java.html", "GABaseMission_8java" ],
+    [ "GABuyArtifact.java", "GABuyArtifact_8java.html", "GABuyArtifact_8java" ],
+    [ "GACelestialObject.java", "GACelestialObject_8java.html", "GACelestialObject_8java" ],
+    [ "GADataFromRuins.java", "GADataFromRuins_8java.html", "GADataFromRuins_8java" ],
+    [ "GADeliverVIP.java", "GADeliverVIP_8java.html", "GADeliverVIP_8java" ],
+    [ "GADepartments.java", "GADepartments_8java.html", "GADepartments_8java" ],
+    [ "GADerelictArtifact.java", "GADerelictArtifact_8java.html", "GADerelictArtifact_8java" ],
+    [ "GAFCReplaceArchon.java", "GAFCReplaceArchon_8java.html", "GAFCReplaceArchon_8java" ],
+    [ "GAFindingCoureuse.java", "GAFindingCoureuse_8java.html", "GAFindingCoureuse_8java" ],
+    [ "GAIntro.java", "GAIntro_8java.html", "GAIntro_8java" ],
+    [ "GAIntro2.java", "GAIntro2_8java.html", "GAIntro2_8java" ],
+    [ "GAKallichore.java", "GAKallichore_8java.html", "GAKallichore_8java" ],
+    [ "GAOutpost.java", "GAOutpost_8java.html", "GAOutpost_8java" ],
+    [ "GAProbePackage.java", "GAProbePackage_8java.html", "GAProbePackage_8java" ],
+    [ "GAProjectZiggurat.java", "GAProjectZiggurat_8java.html", "GAProjectZiggurat_8java" ],
+    [ "GAPZPostEncounters.java", "GAPZPostEncounters_8java.html", "GAPZPostEncounters_8java" ],
+    [ "GARansomResearcher.java", "GARansomResearcher_8java.html", "GARansomResearcher_8java" ],
+    [ "GAReturnHamatsu.java", "GAReturnHamatsu_8java.html", "GAReturnHamatsu_8java" ],
+    [ "GATalkToBaird.java", "GATalkToBaird_8java.html", "GATalkToBaird_8java" ],
+    [ "GATalkToSebestyen.java", "GATalkToSebestyen_8java.html", "GATalkToSebestyen_8java" ],
+    [ "GATransverseJump.java", "GATransverseJump_8java.html", "GATransverseJump_8java" ]
+];

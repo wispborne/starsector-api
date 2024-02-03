@@ -1,0 +1,11 @@
+<map id="com.fs.starfarer.api.impl.campaign.ExplosionEntityPlugin" name="com.fs.starfarer.api.impl.campaign.ExplosionEntityPlugin">
+<area shape="rect" id="Node000001" title=" " alt="" coords="723,39,943,79"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1BaseCustomEntityPlugin.html" title=" " alt="" coords="395,5,616,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="631,36,723,45,722,50,631,41"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="49,13,241,39"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="257,23,395,23,395,28,257,28"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="382,71,629,111"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="645,75,722,67,723,72,645,80"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,71,285,111"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="300,88,381,88,381,94,300,94"/>
+</map>

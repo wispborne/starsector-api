@@ -1,0 +1,9 @@
+<map id="com.fs.starfarer.api.impl.campaign.procgen.themes.RemnantStationFleetManager" name="com.fs.starfarer.api.impl.campaign.procgen.themes.RemnantStationFleetManager">
+<area shape="rect" id="Node000001" title=" " alt="" coords="667,26,983,67"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="306,5,484,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="500,22,667,33,667,39,499,28"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1procgen_1_1themes_1_1RemnantStationFleb50e0f19d17c939fd288d2e6ebd345d6.html" title=" " alt="" coords="212,55,578,96"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="594,59,667,54,667,60,594,65"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,63,163,88"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="179,73,212,73,212,78,179,78"/>
+</map>

@@ -1,0 +1,19 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.hub.HubMissionWithTriggers" name="com.fs.starfarer.api.impl.campaign.missions.hub.HubMissionWithTriggers">
+<area shape="rect" id="Node000001" title=" " alt="" coords="822,202,1121,243"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1BaseHubMission.html" title=" " alt="" coords="410,154,709,195"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="725,191,822,202,821,207,724,196"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="99,5,211,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="227,23,305,41,369,66,430,96,527,151,524,156,428,100,367,71,304,46,226,28"/>
+<area shape="rect" id="Node000004" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1HubMission.html" title=" " alt="" coords="5,55,305,96"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="267,97,305,106,480,151,479,156,304,111,266,103"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="5,121,305,161"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="321,152,409,159,409,164,320,157"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="5,186,305,227"/>
+<area shape="poly" id="edge5_Node000002_Node000006" title=" " alt="" coords="320,190,409,183,409,189,321,196"/>
+<area shape="rect" id="Node000007" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1MissionHub.html" title=" " alt="" coords="5,251,305,292"/>
+<area shape="poly" id="edge6_Node000002_Node000007" title=" " alt="" coords="268,245,304,236,409,205,460,192,461,198,410,210,305,241,269,250"/>
+<area shape="rect" id="Node000008" href="$interfacecom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1HubMissionCreator.html" title=" " alt="" coords="5,317,305,357"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="283,309,304,301,348,280,384,249,391,238,394,227,398,216,408,205,429,193,432,197,411,210,403,219,399,229,396,240,388,252,350,285,306,306,285,314"/>
+<area shape="rect" id="Node000009" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1MissionTrigger.html" title=" " alt="" coords="410,219,709,260"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="724,230,822,226,822,231,724,235"/>
+</map>

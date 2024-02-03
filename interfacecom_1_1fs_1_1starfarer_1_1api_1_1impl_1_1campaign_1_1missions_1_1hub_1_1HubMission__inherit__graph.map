@@ -1,0 +1,11 @@
+<map id="com.fs.starfarer.api.impl.campaign.missions.hub.HubMission" name="com.fs.starfarer.api.impl.campaign.missions.hub.HubMission">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,305,46"/>
+<area shape="rect" id="Node000002" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1BaseHubMission.html" title=" " alt="" coords="5,94,305,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="158,62,158,94,152,94,152,62"/>
+<area shape="rect" id="Node000003" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1HubMissionWithTriggers.html" title=" " alt="" coords="5,183,305,223"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,150,158,182,152,182,152,150"/>
+<area shape="rect" id="Node000004" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1HubMissionWithSearch.html" title=" " alt="" coords="5,271,305,312"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="158,239,158,271,152,271,152,239"/>
+<area shape="rect" id="Node000005" href="$classcom_1_1fs_1_1starfarer_1_1api_1_1impl_1_1campaign_1_1missions_1_1hub_1_1HubMissionWithBarEvent.html" title=" " alt="" coords="5,360,305,401"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="158,328,158,360,152,360,152,328"/>
+</map>

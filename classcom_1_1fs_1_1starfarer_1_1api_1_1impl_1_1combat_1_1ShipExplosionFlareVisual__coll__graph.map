@@ -1,0 +1,9 @@
+<map id="com.fs.starfarer.api.impl.combat.ShipExplosionFlareVisual" name="com.fs.starfarer.api.impl.combat.ShipExplosionFlareVisual">
+<area shape="rect" id="Node000001" title=" " alt="" coords="442,41,650,82"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="159,5,359,46"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="374,37,442,46,442,51,373,43"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="133,70,384,126"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="399,77,442,72,442,77,400,83"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,85,84,111"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="99,95,132,95,132,100,99,100"/>
+</map>
